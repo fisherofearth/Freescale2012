@@ -1,0 +1,4 @@
+Threshold_SearchEdge=50
+SkipLines=34
+skiplineControl=8
+#end

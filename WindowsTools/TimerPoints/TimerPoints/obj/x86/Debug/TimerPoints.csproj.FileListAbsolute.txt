@@ -1,0 +1,9 @@
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\TimerPoints.Form1.resources
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\TimerPoints.Properties.Resources.resources
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\bin\Debug\TimerPoints.exe
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\bin\Debug\TimerPoints.pdb
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\TimerPoints.exe
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\TimerPoints\TimerPoints\obj\x86\Debug\TimerPoints.pdb

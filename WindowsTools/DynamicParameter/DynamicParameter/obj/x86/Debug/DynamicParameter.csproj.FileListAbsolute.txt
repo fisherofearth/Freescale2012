@@ -1,0 +1,9 @@
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\bin\Debug\DynamicParameter.exe
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\bin\Debug\DynamicParameter.pdb
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\DynamicParameter.Form1.resources
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\DynamicParameter.Properties.Resources.resources
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\ResGen.read.1.tlog
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\ResGen.write.1.tlog
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\DynamicParameter.exe
+D:\Events\Smartcar_Freescale\Freescale_smartcar_2012\WorkSpace_VisualStudio\DynamicParameter\DynamicParameter\obj\x86\Debug\DynamicParameter.pdb
